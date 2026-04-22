@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
   "config_name": "Top 300 Active Restaurant Whales with Email in New York City, New York, US",
-  "export_job_id": "1e8f7248-0238-45c0-a993-a7c5570e5fd2",
+  "export_job_id": "c0fec4a3-cda6-4ab0-b420-9a761fab8d55",
   "github_org": "Beamstation-Datasets",
   "id_short": 365754,
   "location_name": "New York City",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/365754/beamstation_365754_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 30,
-  "sample_sha256": "df259ca8e8868704798d2df61a800a2bb5d7c236931cd06a24bb88bcec5c8bd3",
-  "sample_size_bytes": 144388,
+  "sample_sha256": "25f3cc7cef80a80fb34e76b2a987f208be3a89377fd30237d49613f3da3f4147",
+  "sample_size_bytes": 142909,
   "total_records": 300,
-  "updated_at": "2026-04-14T22:50:24.043069+00:00"
+  "updated_at": "2026-04-22T02:00:07.576520+00:00"
 }
