@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1e8f7248-0238-45c0-a993-a7c5570e5fd2",
+  "export_job_id": "c0fec4a3-cda6-4ab0-b420-9a761fab8d55",
   "id_short": 365754,
-  "published_at": "2026-04-18T07:57:36Z",
+  "published_at": "2026-04-22T07:24:37Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-new-york-city-new-york-us-sample-365754",
   "sample_asset_name": "beamstation_365754_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/365754/beamstation_365754_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_records": 30,
-  "sample_sha256": "df259ca8e8868704798d2df61a800a2bb5d7c236931cd06a24bb88bcec5c8bd3",
-  "sample_size_bytes": 144388,
+  "sample_sha256": "25f3cc7cef80a80fb34e76b2a987f208be3a89377fd30237d49613f3da3f4147",
+  "sample_size_bytes": 142909,
   "total_records": 300
 }
