@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in New York City, New York, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `365754` |
 | Location | New York City |
 | Category | Restaurants |
-| Full dataset size | 300 records |
-| Free sample size | 30 records (10.0%) |
-| Last export | 2026-04-22T02:00:07.576520+00:00 |
+| Full dataset size | 207 records |
+| Free sample size | 20 records (9.66%) |
+| Last export | 2026-04-29T05:03:07.922984+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-new-york-city-new-york-us-sample-365754/releases/download/sample-latest/beamstation_365754_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
